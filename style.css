@@ -5,7 +5,8 @@ body{
   display:flex;
   flex-direction:column;
   justify-content:center;
-  align-items:center;
+  background-image:url("wallpaperbetter.jpg");
+ align-items:center;
   font-family:'Rampart One', cursive;
 }
 
@@ -79,13 +80,7 @@ h6{
 {
   <button type="button" class="btn btn-primary btn-lg">Large button</button>
 }
-
-body {
-  font-family:'Rampart One', cursive;
-  background-color:black;
-	background-image:url("wallpaperbetter.jpg");
-	color: white;
-       font-size: auto;
+	
 
 	
 	header {
