@@ -15,7 +15,7 @@ h2{
   text-transform: uppercase;
 }
 
-h6{
+h2{
   margin:0px;
   color:#777;
 }
@@ -30,8 +30,8 @@ h6{
   font-size:15px;
   padding:0px;
   list-style:none;
-  background:#fff;
-  box-shadow:0px 5px 20px rgba(0,0,0,0.1);
+  background:blue;
+  box-shadow:black;
   display:inline-block;
   border-radius:50px;
   position:relative;
@@ -39,7 +39,7 @@ h6{
 
 .tabs a{
   text-decoration:none;
-  color: #777;
+  color: white;
   text-transform:uppercase;
   padding:10px 20px;
   display:inline-block;
@@ -49,7 +49,7 @@ h6{
 }
 
 .tabs a.active{
-  color:#fff;
+  color:#red;
 }
 
 .tabs a i{
@@ -67,7 +67,7 @@ h6{
   transition-duration:0.6s;
   transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
   
-  background: #05abe0;
+  background: black;
   background: -moz-linear-gradient(45deg, #05abe0 0%, #8200f4 100%);
   background: -webkit-linear-gradient(45deg, #05abe0 0%,#8200f4 100%);
   background: linear-gradient(45deg, #05abe0 0%,#8200f4 100%);
