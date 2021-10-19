@@ -10,15 +10,7 @@ body{
   font-family:'Rampart One', cursive;
 }
 
-h2{
-  margin:0px;
-  text-transform: uppercase;
-}
 
-h2{
-  margin:0px;
-  color:#777;
-}
 
 .wrapper{
   text-align:center;
@@ -68,10 +60,10 @@ h2{
   transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
   
   background: black;
-  background: -moz-linear-gradient(45deg, #05abe0 0%, #8200f4 100%);
-  background: -webkit-linear-gradient(45deg, #05abe0 0%,#8200f4 100%);
-  background: linear-gradient(45deg, #05abe0 0%,#8200f4 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#05abe0', endColorstr='#8200f4',GradientType=1 );
+  background: -moz-black;
+  background: -webkit-black;
+  background: black;
+  filter:none;
   
 }
 
