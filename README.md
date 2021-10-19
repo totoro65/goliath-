@@ -4,6 +4,6 @@
 ![php](https://github.com/magicickey/goliath/blob/main/php.jpg?raw=true)
 ![python](https://github.com/magicickey/goliath/blob/main/python.jpg?raw=true)
 ![java](https://github.com/magicickey/goliath/blob/main/java.png?raw=true)
-![]()
-![]()
+![logo-css](https://github.com/magicickey/goliath/blob/main/logo-css.webp?raw=true)
+![gimp]()
 ![]()
