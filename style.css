@@ -29,41 +29,18 @@ body{
   position:relative;
 }
 
-.tabs a{
-  text-decoration:none;
-  color: pink;
-  text-transform:uppercase;
-  padding:10px 20px;
-  display:inline-block;
-  position:relative;
-  z-index:1;
-  transition-duration:0.6s;
-}
+
 
 .tabs a.active{
-  color:#red;
+  color:red;
 }
 
 .tabs a i{
   margin-right:5px;
 }
 
-.tabs .selector{
-  height:100%;
-  display:inline-block;
-  position:absolute;
-  left:0px;
-  top:0px;
-  z-index:1;
-  border-radius:50px;
-  transition-duration:0.6s;
-  transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  
-  background: black;
-  background: -moz-black;
-  background: -webkit-black;
-  background: black;
-  filter:none;
+.
+
   
 }
 
