@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
 
-.btn-lg
-{
-  <button type="button" class="btn btn-primary btn-lg">Large button</button>
-}
+
 	body {
   font-family: 'Rampart', cursive ;
   background-color:blue;
