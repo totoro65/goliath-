@@ -81,9 +81,9 @@ h6{
 }
 
 body {
-  font-family: 'Rampart One', cursive;
+  font-family:'Rampart One', cursive;
   background-color:black;
-	background-image:url("");
+	background-image:url("wallpaperbetter.jpg");
 	color: white;
        font-size: auto;
 
@@ -91,7 +91,7 @@ body {
 	header {
  color: white;
  background-color:blue;
- background-image:url("");
+ background-image:url("wallpaperbetter.jpg");
   display:flex-center;
    padding: auto ;
    
@@ -101,7 +101,7 @@ body {
 header .row,
 footer .row {
   color:white;
-  background-color:black;
+  background-color:blue;
 background-image:url("");
  
 
