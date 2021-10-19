@@ -4,7 +4,12 @@
 {
   <button type="button" class="btn btn-primary btn-lg">Large button</button>
 }
-	
+	body {
+  font-family: 'Anton', sans-serif;
+  background-color:blue;
+	background-image:url("t%C3%A9l%C3%A9charger%20(2).jfif");
+	color: white;
+       font-size: auto;
 
 header {
  color: white;
