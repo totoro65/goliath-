@@ -1,50 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
 
-body{
-  height:100vh;
-  display:flex;
-  flex-direction:column;
-  justify-content:center;
-  background-image:url("wallpaperbetter.jpg");
- align-items:center;
-  font-family:'Rampart One', cursive;
-}
-
-
-
-.wrapper{
-  text-align:center;
-  margin:50px auto;
-}
-
-.tabs{
-  margin-top:50px;
-  font-size:15px;
-  padding:0px;
-  list-style:none;
-  background:blue;
-  box-shadow:black;
-  display:inline-block;
-  border-radius:50px;
-  position:relative;
-}
-
-
-
-.tabs a.active{
-  color:red;
-}
-
-.tabs a i{
-  margin-right:5px;
-}
-
-.
-
-  
-}
-
-
 .btn-lg
 {
   <button type="button" class="btn btn-primary btn-lg">Large button</button>
