@@ -71,4 +71,193 @@ h6{
   background: -webkit-linear-gradient(45deg, #05abe0 0%,#8200f4 100%);
   background: linear-gradient(45deg, #05abe0 0%,#8200f4 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#05abe0', endColorstr='#8200f4',GradientType=1 );
+  
 }
+
+
+.btn-lg
+{
+  <button type="button" class="btn btn-primary btn-lg">Large button</button>
+}
+
+body {
+  font-family: 'Rampart One', cursive;
+  background-color:black;
+	background-image:url("");
+	color: white;
+       font-size: auto;
+
+	
+	header {
+ color: white;
+ background-color:none;
+ background-image:url("");
+  display:flex-center;
+   padding: auto ;
+   
+   font-size:auto;
+}
+
+header .row,
+footer .row {
+  color:white;
+  background-color:black;
+background-image:url("");
+ 
+
+  
+ display: center;
+  align-items: center;
+  color:white;
+  background-color:black;
+  
+}
+
+h1 {
+  color:white;
+   
+  height: flex-bottom;
+  font-weight: auto;
+  margin: auto;
+  display:center;
+  
+  
+
+nav {
+ background-color:none;
+ color:white;
+  display:flex-block;
+  justify-content:flex-end;
+	display: top-center;
+
+  
+
+  
+  
+
+a {
+color: white;
+  padding: auto ;
+  margin:  auto;
+}
+  
+  a {
+	color: white; text-decoration:none;
+}
+	a:hover {
+		color:white;
+	}
+
+.jumbotron {
+  display:center;
+
+  align-items: flex;
+  border-image-outset: auto ;
+display :left-block;
+
+  background-size:cover;
+  color:white;
+  background-color:black;
+  height: auto;
+}
+
+.jumbotron h2 {
+background-image:url('');
+  font-size: auto;
+  font-weight: auto;
+  margin: auto;
+  color:white ;
+ 
+
+ 
+ 
+ 
+}
+
+.jumbotron h3 {
+  Font-size: auto;
+  margin: auto;
+  color:white;
+  background-color:black;
+  display:center;
+ 
+}
+
+section .row img {
+  color:none;
+  display: center;
+  
+
+  margin: auto;
+  width: auto;
+  
+}
+
+.col-md-6 {
+  color: white;
+  background-color:none ;
+  margin: 0 0 auto;
+}
+
+.btn.btn-primary {
+  border-radius: auto;
+  border: auto;
+  color:white;
+  background-color:black ;
+}
+
+.btn.btn-primary:hover {
+  color:white;
+  background-color:black;
+	display: center;
+}
+
+.btn-secondary {
+  background-color:black ;
+  color:white;
+  margin: 0 0 0 7px
+}
+.button {
+  display: center;
+  color:silver;
+  }
+  
+.portrait {
+  color:none;
+  
+  width:  0 auto;
+  height: 0 auto;
+}
+
+figure img {
+  color:white;
+  width: auto;
+  height: auto;
+  background-color:black;
+
+}
+
+
+
+footer {
+  font-size:auto;
+  padding: auto;
+  color:white;
+  background-color:black;
+
+
+
+
+
+
+footer .col-sm-8 {
+  background-color:black;
+  color:white;
+  display:center;
+  justify-content:flex-end;
+}
+
+footer ul {
+  color:white;
+  background-color:black;
+  list-style: flex;
