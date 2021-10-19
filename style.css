@@ -90,7 +90,7 @@ body {
 	
 	header {
  color: white;
- background-color:none;
+ background-color:blue;
  background-image:url("");
   display:flex-center;
    padding: auto ;
